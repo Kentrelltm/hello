@@ -1,2 +1,2 @@
-# login
-Created learn C++. Made a simple login using file storage
+# Hello
+Created to learn C++. A simple hello world program
